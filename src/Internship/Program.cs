@@ -7,17 +7,21 @@ namespace Internship
         private static void Main()
         {
             // var deck = new Deck(name: "Default");
-            
-            _deck.AddCard(companyName: "Microsoft");
-            _deck.AddCard(companyName: "Google", status: "Applied");
-            _deck.AddCard(companyName: "Amazon");
-            _deck.DeleteCard(index: 1);
-            
+
+            SetUpSample();
             DrawHeader(_deck.Name);
             DrawDeck(_deck);
         }
 
         private static Deck _deck = new Deck(name: "Default");
+
+        private static void SetUpSample()
+        {
+            _deck.AddCard(companyName: "Microsoft");
+            _deck.AddCard(companyName: "Google", status: "Applied");
+            _deck.AddCard(companyName: "Amazon");
+            _deck.DeleteCard(index: 1);
+        }
 
         private static void DrawHeader(string deckName)
         {
