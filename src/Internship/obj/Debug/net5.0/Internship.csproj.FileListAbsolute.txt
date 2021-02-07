@@ -1,0 +1,15 @@
+/Users/aaron/learn-csharp/Internship/src/Internship/bin/Debug/net5.0/Internship.deps.json
+/Users/aaron/learn-csharp/Internship/src/Internship/bin/Debug/net5.0/Internship.runtimeconfig.json
+/Users/aaron/learn-csharp/Internship/src/Internship/bin/Debug/net5.0/Internship.runtimeconfig.dev.json
+/Users/aaron/learn-csharp/Internship/src/Internship/bin/Debug/net5.0/Internship.dll
+/Users/aaron/learn-csharp/Internship/src/Internship/bin/Debug/net5.0/ref/Internship.dll
+/Users/aaron/learn-csharp/Internship/src/Internship/bin/Debug/net5.0/Internship.pdb
+/Users/aaron/learn-csharp/Internship/src/Internship/obj/Debug/net5.0/Internship.csprojAssemblyReference.cache
+/Users/aaron/learn-csharp/Internship/src/Internship/obj/Debug/net5.0/Internship.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaron/learn-csharp/Internship/src/Internship/obj/Debug/net5.0/Internship.AssemblyInfoInputs.cache
+/Users/aaron/learn-csharp/Internship/src/Internship/obj/Debug/net5.0/Internship.AssemblyInfo.cs
+/Users/aaron/learn-csharp/Internship/src/Internship/obj/Debug/net5.0/Internship.csproj.CoreCompileInputs.cache
+/Users/aaron/learn-csharp/Internship/src/Internship/obj/Debug/net5.0/Internship.dll
+/Users/aaron/learn-csharp/Internship/src/Internship/obj/Debug/net5.0/ref/Internship.dll
+/Users/aaron/learn-csharp/Internship/src/Internship/obj/Debug/net5.0/Internship.pdb
+/Users/aaron/learn-csharp/Internship/src/Internship/obj/Debug/net5.0/Internship.genruntimeconfig.cache
